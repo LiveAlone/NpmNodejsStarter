@@ -1,0 +1,23 @@
+{
+  "name": "NpmNodejsStarter",
+  "version": "1.0.0",
+  "description": "测试修改npm 依赖 node js config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiveAlone/NpmNodejsStarter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiveAlone/NpmNodejsStarter/issues"
+  },
+  "homepage": "https://github.com/LiveAlone/NpmNodejsStarter#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
