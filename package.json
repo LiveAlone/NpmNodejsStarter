@@ -19,5 +19,9 @@
   "homepage": "https://github.com/LiveAlone/NpmNodejsStarter#readme",
   "dependencies": {
     "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
   }
 }
